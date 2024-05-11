@@ -16,6 +16,7 @@ Ajudar os usuários a:
 3. Acompanhamento: Monitore seu progresso com gráficos e relatórios, vendo sua evolução a cada passo!
 p.s.: Pode variar dependendo das suas interações com o modelo.
 
-### Exemplo de uso:
+### Exemplo de uso: 
+[código completo no notebook](https://github.com/itsGab/tutor-inteligente/blob/branches/projeto_tutor_inteligente.ipynb)
 
 ![exemplo de uso do chat](https://github.com/itsGab/tutor-inteligente/blob/branches/content/exemplo-de-uso.png)
